@@ -1,0 +1,45 @@
+body {
+    background: rgb(65, 65, 133);
+    color: white;
+}
+#top{
+    display: block;
+    font-size: 20px;
+}
+#item {
+    width: 80%;
+    border-radius: 10px;
+    height: 30px;
+}
+li {
+    list-style: none;
+}
+.btn{
+    width: 80%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(96, 196, 171);
+    margin-top: 10px;
+    border:0;
+}
+.btn:hover {
+    background-color: aqua;
+}
+.danger {
+    background-color: transparent;
+    color: rgb(233, 13, 13);
+    display: inline;
+    height: 20px;
+    border-radius: 10px;
+    border:  2px solid red;
+    margin-left: 20px;
+}
+ h3 {
+    display: inline; 
+ }
+ 
+ .checked {
+    color: rgba(255, 255, 255, 0.493);
+ }
+ 
+
